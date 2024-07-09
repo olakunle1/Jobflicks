@@ -1,0 +1,13 @@
+JobFlick/
+│
+├── index.html
+├── jobs.html
+├── news.html
+├── about.html
+├── contact.html
+├── signin.html
+├── signup.html
+├── css/
+│   └── styles.css
+└── js/
+    └── main.js
